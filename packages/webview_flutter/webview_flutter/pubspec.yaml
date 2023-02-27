@@ -25,21 +25,21 @@ dependencies:
     git:
       url: https://github.com/sribuu/flutter-plugins.git
       ref: dev-3.0.4
-      path: packages/webview_flutter/webview_flutter/webview_flutter_android
+      path: packages/webview_flutter/webview_flutter_android
 
 #  webview_pro_platform_interface: ^1.9.0
   webview_flutter_platform_interface:
     git:
       url: https://github.com/sribuu/flutter-plugins.git
       ref: dev-3.0.4
-      path: packages/webview_flutter/webview_flutter/webview_flutter_platform_interface
+      path: packages/webview_flutter/webview_flutter_platform_interface
 
 #  webview_pro_wkwebview: ^2.8.0
   webview_flutter_wkwebview:
     git:
       url: https://github.com/sribuu/flutter-plugins.git
       ref: dev-3.0.4
-      path: packages/webview_flutter/webview_flutter/webview_flutter_wkwebview
+      path: packages/webview_flutter/webview_flutter_wkwebview
 
 dev_dependencies:
   build_runner: ^2.1.5
